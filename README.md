@@ -1,3 +1,3 @@
 # readme.md
 
-![Lucid's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Lucid's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuriousAC&show_icons=true&theme=radical)
